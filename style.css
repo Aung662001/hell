@@ -246,7 +246,7 @@ table .quantity {
   margin-right: 9px;
   border-radius: 5px;
   background-color: rgb(195, 190, 190);
-  max-width: 40px;
+  max-width: 60px;
   text-align: center;
   user-select: none;
 }
