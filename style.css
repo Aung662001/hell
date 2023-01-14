@@ -263,3 +263,6 @@ table tr:last-child {
   margin: 10px 0px 0px 40%;
   padding: 15px;
 }
+.cart-btn:hover {
+  background-color: red;
+}
